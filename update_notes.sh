@@ -1,4 +1,4 @@
-cd /Users/matt_wong/Documents/Obsidian_Love/Love
+cd /Users/matt_wong/Documents/Obsidian_Love/Love-Share
 git pull
 git add .
 git commit -m "Automatically updated"
