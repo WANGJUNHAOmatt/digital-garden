@@ -5,18 +5,18 @@ id: home
 permalink: /
 ---
 
-hello👋，我是 Matt Wong 王骏豪，写过几万行代码，带过十几人团队。
+hello👋，我是 Matt Wong [王骏豪](About)，写过几万行代码，带过十几人团队。
 
-这里是一座「全开放式，每日更新」的[[数字花园]]，由原子化的[[卡片笔记]]编织而成。目前主要在浇灌[[🗜 效率工具]]、[[🧀 知识管理]]这2个领域。
+这里是一座「全开放式，每日更新」的 数字花园 ，由原子化的 卡片笔记 编织而成。目前主要在浇灌 🗜 效率工具、🧀 知识管理 这2个领域。
 
-既然你诚心诚意地，闯入了我的花园，那我就大发慈悲地，给你一张地图：[[主体 Subject]]。
+既然你诚心诚意地，闯入了我的花园，那我就大发慈悲地，给你一张地图：[[global-graph]]。
 
 开个玩笑，客官莫怪😂。虽然有导览，但这绝不是传统的博客，这是我思考的过程容器，所以可能有很多看起来令人费解的半成品内容。当您漫步花园时，这里有2个不成熟的小建议💁：
 
 - 尽量通过鼠标悬浮预览进行上下文不中断的阅读。
 - 尽量通过底部反向链接找回来时的路。
 
-这座数字花园使用[[obsidian]]写作和发布，且毫无保留地开源，这里是[[README]]，这里是项目地址：[GitHub - WANGJUNHAOmatt/Obsidian-Notes](https://github.com/WANGJUNHAOmatt/Obsidian-Notes)。
+这座数字花园使用 obsidian 写作和发布，且毫无保留地开源，这里是[[README]]，这里是项目地址：[GitHub - WANGJUNHAOmatt/Obsidian-Notes](https://github.com/WANGJUNHAOmatt/Obsidian-Notes)。
 
 这座花园里，我挖了很多坑🕳，如果你想敦促我加速填坑，欢迎来提issue。如果方便的话，给个star⭐️呗。
 
