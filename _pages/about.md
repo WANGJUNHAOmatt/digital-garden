@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*关于我*
 
-Feel free to tell the world about what you love! 😍
+我是一个努力提升自身主体性的年轻人，致力于为所有“想做个人”的朋友提供更好的成长环境。
